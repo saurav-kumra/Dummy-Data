@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dummy-Data/static/css/main.e2f702d6.css",
+    "main.js": "/Dummy-Data/static/js/main.e45a0959.js",
+    "index.html": "/Dummy-Data/index.html",
+    "main.e2f702d6.css.map": "/Dummy-Data/static/css/main.e2f702d6.css.map",
+    "main.e45a0959.js.map": "/Dummy-Data/static/js/main.e45a0959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f702d6.css",
+    "static/js/main.e45a0959.js"
+  ]
+}
